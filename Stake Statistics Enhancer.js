@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Stake Statistics Enhancer
-// @namespace    RF-Scripts
+// @namespace    https://github.com/MrRaymondFish/Stake-Statistics-Enhancer
+// @supportURL   https://github.com/MrRaymondFish/Stake-Statistics-Enhancer/issues
 // @version      0.9.7
 // @description  Adds options to hide elements in the Stake statistics window. Also calculates estimated RTP for each game in real-time.
-// @author       RaymondFish
+// @author       RaymondFish (https://github.com/MrRaymondFish/)
 // @supportURL   mrraymondfish@gmail.com
 // @match        stake.com/*
 // @match        stake.ac/*
@@ -21,6 +22,8 @@
 // @match        stake.ca/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=stake.us
 // @grant        GM_addStyle
+// @compatible   chrome
+// @compatible   firefox
 // ==/UserScript==
 
 var startRTP = null, svelteClass = "svelte-1myjzud";
