@@ -2,7 +2,7 @@
 // @name         Stake Statistics Enhancer
 // @namespace    https://github.com/MrRaymondFish/Stake-Statistics-Enhancer
 // @supportURL   https://github.com/MrRaymondFish/Stake-Statistics-Enhancer/issues
-// @version      0.9.7
+// @version      0.9.8
 // @description  Adds options to hide elements in the Stake statistics window. Also calculates estimated RTP for each game in real-time.
 // @author       RaymondFish (https://github.com/MrRaymondFish/)
 // @updateURL    https://github.com/MrRaymondFish/Stake-Statistics-Enhancer/raw/main/Stake_Statistics_Enhancer.user.js
