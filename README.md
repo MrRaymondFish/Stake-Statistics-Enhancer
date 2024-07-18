@@ -19,5 +19,7 @@ The script only reads data from the "Live Stats" window on Stake and modifies or
 - Read any Stake data except for the information shown on Live Stats pop-up
 - Log or store any information
 
+**BTC Donations**: bc1qrruqzq5kn4ejers5xmea0zw0mlf8ledrwjdrta
+
 Watch the video
 [![Watch the video](https://i.imgur.com/eCVmA6q.jpeg)](https://i.imgur.com/mhIQC3h.mp4)
